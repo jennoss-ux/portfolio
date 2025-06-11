@@ -88,7 +88,7 @@ p{
 }
 
 .dark{
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../img copie/noir.png);
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(noir.png);
     background-size: cover;
     color: white;
 }
